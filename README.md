@@ -1,0 +1,2 @@
+# 17_Window_Obje_ve_Metodlari
+17_Window_Obje_ve_Metodlari
